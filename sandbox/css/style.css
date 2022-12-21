@@ -1777,7 +1777,7 @@ figure.dotted-bg:before {
   display: inline-block;
   padding-left: 20px;
   padding-right: 20px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #2C3BB8;
   letter-spacing: .1rem;
   text-transform: uppercase;
   font-size: 12px;
