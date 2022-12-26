@@ -53,8 +53,10 @@ a {
   transition: .3s all ease;
 }
 
+
 a, a:hover {
   text-decoration: none !important;
+  color: #00DC8E;
 }
 
 .unslate_co--site-inner {
@@ -121,7 +123,7 @@ a, a:hover {
 
 .btn.btn-bg-white--hover:hover {
   background-color: #fff;
-  color: ##00DC8E;
+  color: #00DC8E;
 }
 
 #unslate_co--overlayer {
