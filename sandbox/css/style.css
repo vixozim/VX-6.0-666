@@ -75,9 +75,7 @@ a, a:hover {
 .unslate_co--footer {
   position: fixed !important;
   width: 100%;
-  /* background-color: #00DC8E; */
   background: url('../images/footer.jpg') no-repeat;
-  /* opacity: 0.8; */
   color: #fff;
   left: 0;
   right: 0;
@@ -85,6 +83,7 @@ a, a:hover {
   z-index: -1;
   /* height: 400px; */
 }
+
 
 @media (max-width: 991.98px) {
   .unslate_co--footer {
