@@ -1815,13 +1815,13 @@ figure.dotted-bg:before {
 }
 
 .loader-portfolio, .site-loader {
-  width: 2rem;
-  height: 2rem;
+  width: 5rem;
+  height: 5rem;
   margin: 2rem auto;
   border-radius: 50%;
-  border: 0.3rem solid #6d7af38c;
+  border: 0.3rem solid #ffffff;
   border-top-color: #2C3BB8;
-  background-color: #FF00FF;
+  background: #FF00FF 2rem 2rem;
   -webkit-animation: 1.5s spin infinite linear;
   animation: 1.5s spin infinite linear;
 }
