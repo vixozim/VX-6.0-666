@@ -84,6 +84,8 @@ a, a:hover {
   /* height: 400px; */
 }
 
+/* BG-PORTFOLIOS */
+
 .bg-candados{
   background-image: url(../images/portfolio/candados/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
 }
@@ -93,6 +95,8 @@ a, a:hover {
 .bg-rentacar{
   background-image: url(../images/portfolio/rentacar/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
 }
+
+
 
 @media (max-width: 600px) {
   .bg-candados{
@@ -106,6 +110,10 @@ a, a:hover {
     background-image: url(../images/portfolio/rentacar/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
   }
 }
+
+/* BG-PORTFOLIOS */
+
+
 @media (max-width: 991.98px) {
   .unslate_co--footer {
     height: auto !important;
