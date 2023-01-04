@@ -84,7 +84,22 @@ a, a:hover {
   /* height: 400px; */
 }
 
+.bg-candados{
+  background-image: url(../images/portfolio/candados/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
+.bg-onemobility{
+  background-image: url(../images/portfolio/onemobility/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
 
+@media (max-width: 600px) {
+  .bg-candados{
+    background-image: url(../images/portfolio/candados/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+
+  .bg-onemobility{
+    background-image: url(../images/portfolio/onemobility/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+}
 @media (max-width: 991.98px) {
   .unslate_co--footer {
     height: auto !important;
