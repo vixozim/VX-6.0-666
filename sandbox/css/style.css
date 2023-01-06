@@ -95,6 +95,9 @@ a, a:hover {
 .bg-rentacar{
   background-image: url(../images/portfolio/rentacar/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
 }
+.bg-apps{
+  background-image: url(../images/portfolio/apps/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
 
 
 
@@ -109,6 +112,13 @@ a, a:hover {
   .bg-rentacar{
     background-image: url(../images/portfolio/rentacar/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
   }
+  .bg-apps{
+    background-image: url(../images/portfolio/apps/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+
+
+
+
 }
 
 /* BG-PORTFOLIOS */
