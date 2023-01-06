@@ -98,6 +98,9 @@ a, a:hover {
 .bg-apps{
   background-image: url(../images/portfolio/apps/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
 }
+.bg-guba{
+  background-image: url(../images/portfolio/guba/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
 
 
 
@@ -115,7 +118,9 @@ a, a:hover {
   .bg-apps{
     background-image: url(../images/portfolio/apps/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
   }
-
+  .bg-guba{
+    background-image: url(../images/portfolio/guba/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
 
 
 
