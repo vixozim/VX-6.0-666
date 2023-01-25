@@ -84,6 +84,50 @@ a, a:hover {
   /* height: 400px; */
 }
 
+/* BG-PORTFOLIOS */
+
+.bg-candados{
+  background-image: url(../images/portfolio/candados/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
+.bg-onemobility{
+  background-image: url(../images/portfolio/onemobility/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
+.bg-rentacar{
+  background-image: url(../images/portfolio/rentacar/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
+.bg-apps{
+  background-image: url(../images/portfolio/apps/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
+.bg-guba{
+  background-image: url(../images/portfolio/guba/bg-vixoz-portfolio-desarrollo-web-diseno.jpg);
+}
+
+
+
+@media (max-width: 600px) {
+  .bg-candados{
+    background-image: url(../images/portfolio/candados/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+
+  .bg-onemobility{
+    background-image: url(../images/portfolio/onemobility/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+  .bg-rentacar{
+    background-image: url(../images/portfolio/rentacar/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+  .bg-apps{
+    background-image: url(../images/portfolio/apps/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+  .bg-guba{
+    background-image: url(../images/portfolio/guba/bg-vixoz-portfolio-desarrollo-web-diseno-mobile.jpg);
+  }
+
+
+
+}
+
+/* BG-PORTFOLIOS */
+
 
 @media (max-width: 991.98px) {
   .unslate_co--footer {
@@ -2017,8 +2061,8 @@ span.error {
   margin-left: -570px;
   top: 0;
   height: 100%;
-  border-left: 1px solid #222;
-  border-right: 1px solid #222;
+/*   border-left: 1px solid #222;
+  border-right: 1px solid #222; */
 }
 
 .lines-wrap .lines-inner .lines {
@@ -2026,8 +2070,8 @@ span.error {
   left: 33.333333%;
   right: 33.333333%;
   height: 100%;
-  border-left: 1px solid #222;
-  border-right: 1px solid #222;
+  /* border-left: 1px solid #222;
+  border-right: 1px solid #222; */
 }
 
 .gsap-reveal {
