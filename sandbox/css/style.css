@@ -2061,8 +2061,8 @@ span.error {
   margin-left: -570px;
   top: 0;
   height: 100%;
-  border-left: 1px solid #222;
-  border-right: 1px solid #222;
+/*   border-left: 1px solid #222;
+  border-right: 1px solid #222; */
 }
 
 .lines-wrap .lines-inner .lines {
@@ -2070,8 +2070,8 @@ span.error {
   left: 33.333333%;
   right: 33.333333%;
   height: 100%;
-  border-left: 1px solid #222;
-  border-right: 1px solid #222;
+  /* border-left: 1px solid #222;
+  border-right: 1px solid #222; */
 }
 
 .gsap-reveal {
