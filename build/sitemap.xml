@@ -9,27 +9,67 @@
 
 <url>
   <loc>https://www.vixoz.com/</loc>
-  <lastmod>2022-12-30T16:24:56+00:00</lastmod>
+  <lastmod>2023-01-02T15:59:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.vixoz.com/es/index.html</loc>
-  <lastmod>2022-12-30T16:22:01+00:00</lastmod>
+  <lastmod>2023-01-12T16:25:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.vixoz.com/en/index.html</loc>
-  <lastmod>2022-12-30T16:22:03+00:00</lastmod>
+  <lastmod>2023-01-12T16:25:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.vixoz.com/es/portfolio/candados.html</loc>
-  <lastmod>2022-12-30T16:22:02+00:00</lastmod>
+  <lastmod>2023-01-12T16:24:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/es/portfolio/onemobility.html</loc>
+  <lastmod>2023-01-12T16:24:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/es/portfolio/rentacar.html</loc>
+  <lastmod>2023-01-12T16:24:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/es/portfolio/apps.html</loc>
+  <lastmod>2023-01-12T16:24:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/es/portfolio/proyectos-para-agencias.html</loc>
+  <lastmod>2023-01-12T16:24:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.vixoz.com/en/portfolio/candados.html</loc>
-  <lastmod>2022-12-30T16:22:04+00:00</lastmod>
+  <lastmod>2023-01-12T16:24:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/en/portfolio/onemobility.html</loc>
+  <lastmod>2023-01-12T16:24:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/en/portfolio/rentacar.html</loc>
+  <lastmod>2023-01-12T16:24:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/en/portfolio/apps.html</loc>
+  <lastmod>2023-01-12T16:24:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.vixoz.com/en/portfolio/project-for-agency.html</loc>
+  <lastmod>2023-01-12T16:24:30+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
